@@ -31,7 +31,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-54767140-1
-  url:http://MIALAB-RUC.github.io
+  url:
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
