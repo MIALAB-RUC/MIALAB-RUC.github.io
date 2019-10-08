@@ -14,11 +14,11 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: huangh0408
-weibo: huangh0408
-github: huangh0408
-instagram: huangh0408
-linkedin: huangh0408
+twitter: 
+weibo: 
+github: MIALAB-RUC
+instagram: 
+linkedin: 
 
 # avatar and Favicon
 avatar: http://MIALAB-RUC.github.io/site-avatar.png
