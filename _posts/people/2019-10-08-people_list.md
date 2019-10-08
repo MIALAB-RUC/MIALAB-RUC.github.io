@@ -8,7 +8,6 @@ keywords: 2019
 
 ## 实验室合照
 
-![group](https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/group2.jpg)
 
 ## 实验室PI
 
