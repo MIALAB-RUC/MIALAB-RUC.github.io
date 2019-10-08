@@ -10,6 +10,8 @@ keywords: 2019
 
 ![cover](https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/group2.jpg)
 
+   asdsadads
+
 ## 实验室PI
 
 ![cover](https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/gong.jpg)
