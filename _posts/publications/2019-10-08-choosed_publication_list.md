@@ -14,8 +14,7 @@ Zhao, Zhenni , and X. Gong . "Protein-protein interaction interface residue pair
 
 ## 医疗图像处理
 
-Hierarchical combinatorial deep learning architecture for pancreas segmentation of medical computed tomography cancer images
-Min Fu,Wenming Wu,Xiafei Hong,Qiuhua Liu, Jialin Jiang,Yaobin Ou, Yupei Zhao and Xinqi Gong
+Fu M , Wu W , Hong X , et al. Hierarchical combinatorial deep learning architecture for pancreas segmentation of medical computed tomography cancer images[J]. BMC Systems Biology, 2018, 12(S4):56.
 
 [文章链接](https://bmcsystbiol.biomedcentral.com/track/pdf/10.1186/s12918-018-0572-z)
 
