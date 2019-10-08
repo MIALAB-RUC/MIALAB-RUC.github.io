@@ -8,10 +8,11 @@ keywords: 2019
 
 ## 实验室合照
 
+![cover](https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/group2.jpg)
 
 ## 实验室PI
 
-![gong](https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/gong.jpg)
+![cover](https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/gong.jpg)
 
    龚新奇，中国人民大学数学科学研究院副教授（研究员、博士生导师），清华大学结构生物学高精尖创新中心合作研究员。开展生物信息学和应用数学的科研和教学。教育经历有本科毕业于北京航空航天大学和博士毕业于北京工业大学（博士导师：王存新教授），并在清华大学从事博士后研究（合作导师：施一公教授）。哈佛大学和IBM公司的访问学者。中国人民大学2018年优秀课外指导教师、2017年十佳班主任、2016年优秀班主任和优秀学生军训工作者。中国计算机学会高级会员、生物信息学专业委员，Molecular Based Mathematical Biology杂志的Guest Editor，第一、二届中国计算机学会生物信息学大会程序委员，第十、十一届国际系统生物学与生物信息学大会程序委员，2015年11月在中国人民大学负责举办全国生物信息学与计算生物学大会。
 
