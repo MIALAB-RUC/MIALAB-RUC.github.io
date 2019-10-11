@@ -8,10 +8,9 @@ keywords: 2019
 
 ## 实验室合照
 
-<figure class="half">
-	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/group2.jpg">
-	<img src="(https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/gong.jpg">
-</figure>
+<center class="half">
+	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/group2.jpg" width="300"><img src="(https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/gong.jpg" width="300">
+</center>
 
 ![cover](https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/group2.jpg)
 
