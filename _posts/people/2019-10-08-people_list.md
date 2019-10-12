@@ -10,8 +10,8 @@ keywords: 2019
 
 <table>
    <tr>
-       <td><img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/group2.jpg" width="300" height="500"></td>
-       <td><img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/gong.jpg" width="300" height="500"></td>
+       <td><img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/group2.jpg" width="300" height="300"></td>
+       <td><img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/gong.jpg" width="300" height="300"></td>
    </tr>
 </table>
 
