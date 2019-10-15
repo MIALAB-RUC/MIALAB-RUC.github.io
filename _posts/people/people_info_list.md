@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 成员信息
-category: 成员
+category: 团队成员
 keywords: 2019
 ---
 
