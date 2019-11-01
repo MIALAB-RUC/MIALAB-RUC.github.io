@@ -142,7 +142,7 @@ Geometric and amino acid type determinants for protein-protein interaction inter
 
 #### 刘世婕
 <center class="half">
-	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/group2.jpg" width="300"/><img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/huang_he.jpg" width="300"/>
+		<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/shijie_liu.jpg" width="300"/>
 </center>
 
 
