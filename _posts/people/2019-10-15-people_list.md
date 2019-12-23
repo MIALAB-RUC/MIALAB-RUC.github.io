@@ -15,7 +15,11 @@ keywords: 2019
 
 ## 实验室老师
 
-   田坤，博士，中国人民大学讲师，本硕博毕业于清华大学数学系，师从丘成栋教授。
+### 田坤
+<center class="half">
+        <img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/tian.jpg" width="300"/>
+</center>
+博士，中国人民大学讲师，本硕博毕业于清华大学数学系，师从丘成栋教授。
 
 ## 在读学生
 
@@ -26,44 +30,8 @@ keywords: 2019
 	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/yu_chen.jpg" width="300"/>
 </center>
 
-教育经历                                                        
-2016.09～2020.06    中国人民大学数学学院	概率论与数理统计专业(导师：王伟教授) 理学博士
-	研究方向：复杂网络及其在金融、信息工程、生物等领域中的应用
-2005.09～2008.06	闽南师范大学	基础数学图论与组合数学方向(导师：陈宝兴教授) 理学硕士
-	主修高等概率论、高等数理统计、离散数学、图论、组合数学、算法设计、数据挖掘与机器学习等课程
-1999.09～2003.06	四川师范大学		数学与应用数学		理学学士
-	主修数学分析、高等代数、概率论与数理统计、常微分方程、运筹学基础、最优化方法等课程
-科研情况                                                                          
-	成果发表： 
-1. Chen Yu, Chen Bao-xing, Xie Xiao-hua, Optimal Designs of Abelian Cayley Digraphs with degree 2, 漳州师范学院学报(自然科学版),2007,(4):15-20.
-2. 陈宇, 陈宝兴, 奇异k紧优的阿贝尔群上2度有向Cayley网络无限族, 第十五届信息论学术 年会论文集(上册),2008,282-286.
-3. Chen Yu, Chen Bao-xing, Computing the diameters of abelian Cayley digraphs with degree 2, 2008 International Symposium on Information Science and Engineering(Volume 1),340-344.  EI,ISTP.
-4. 陈宇, 大学数学教学中创新意识的培养,  漳州师范学院学报自然科学版, 2012, 25(1)
-5. 陈宇, 汤亮华, A Characterization On Potentially K6-Z6-graphic Sequences, 数学研究, 2013, 46(1)
-6. 殷剑宏，邓宝，陈华喜，陈宇, 离散数学教材第一章：1-32, 中国科技大学出版社, 2013年1月
-7. 陈宇, 王伟, 蔡荣彦, 冯金平, 龚新奇，一种新的中位数排序集抽样下的对总体均值的Horvitz-Thompson估计，数学的实践与认识（已录用）
-8. Yu Chen, Wei Wang, Jinping Feng, Ying Lu, and Xinqi，Maximizing multiple influences and fair seed allocation on multilayer social networks，PlosOne（SCI二审）
-9. Jinping Feng, Wei Wang, Yu Chen. An improved tracking-differentiator filter based on Taylors formula. Optik, 158 (2018): 1026-1033. https://doi.org/10.1016/j.ijleo.2017.12.198. (SCI)
-10. 冯金平, 王伟, 陈宇. 我国GDP的多步预测研究基于Kalman滤波和泰勒展开的结合[J]. 数学的实践与认识, 2018, 48(11): 183-189.
-11. 冯金平, 王伟, 陈宇. 基于泰勒公式改进的非线性跟踪微分器的GDP预测[J]. 统计与决策. (第一作, CSSCI, 录用)
-12. Jinping Feng, Wei Wang, Yu Chen. The Application of Improved Tracking-Differentiator Filter in ECG Data. The 2018 International Conference on Modeling, Simulation and Optimization (MSO2018), Sheng Zhen, Jan. 21-22, 2018.
-参与项目：  
-	2006 资助省属高校项目，循环图的拓扑结构与最优设计研究，2006F050601 (参与)
-	2008福建省自然科学基金项目，双凯莱网络的最优设计与寻径策略研究(参与)
-	2009福建省自然科学基金项目，计算机网络的可靠性与最优化问题研究，2009J0101                                                      (参与)
-	国家自然科学基金面上项目No. 31670725和No. 91730301（参与）
-	2017年福建省中青年教师教育科研项目 （主持）
-工作经历                                                                       
-	2003.07～至今	    闽南师范大学数统学院			任课教师               
-个人技能                                                                        
-	英语水平：CET-6   
-	计算机水平：全国计算机二级
-	熟练运用Python、Stata等统计软件，及Office办公软件
-	其他：普通话二级甲
-其他情况                                                                           
-	热爱教育事业，具有扎实的理论基础和较强的科研能力，担任学院的高等数学、线性代数、离散数学、组合数学等课程的教学工作，积累了丰富的教学经验。
-	生活上，热爱羽毛球、乒乓球、气排球等体育运动；
-	未来工作计划：快速融入工作环境，积极完成工作任务；深入学习专业知识，加强专业技能。
+闽南师范大学讲师，中国人民大学数学学院博士在读
+研究方向：复杂网络及其在金融、信息工程、生物等领域中的应用
 
 [#]:    陈宇（数学合作），王伟（统计合作），吕艳芬，赵翠翠，杨红梅，曹晓峰，黄鹤
 
@@ -72,54 +40,47 @@ keywords: 2019
 <center class="half">
 	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/wei_wang.jpg" width="300"/>
 </center>
-王伟
 
-博士，机器学习方法进行蛋白质蛋白质相互作用的预测。
-
-Different protein-protein interface patterns predicted by different machine learning methods，Scientific Reports
-Geometric and amino acid type determinants for protein-protein interaction interfaces，Quantitative Biology
-
-
-
+统计学院博士生
+研究方向：机器学习方法进行蛋白质蛋白质相互作用的预测。
 
 #### 吕艳芬
 <center class="half">
-	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/yanfen_lv.jpg" width="300"/>
+	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/lv.jpg" width="300"/>
 </center>
-吕研芬
+2017年----至今   中国人民大学   应用数学专业 博士在读
 
 
 #### 赵翠翠
 <center class="half">
 	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/cuicui_zhao.jpg" width="300"/>
 </center>
-赵翠翠
+2018年----至今   中国人民大学   应用数学专业 博士在读
 
 
 #### 杨红梅
 <center class="half">
 	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/wei.jpg" width="300"/>
 </center>
-杨红梅
 2018年----至今   中国人民大学   应用数学专业 博士在读
 研究方向与兴趣：空气污染物特征分析，蛋白质相互作用预测
 
 
 #### 曹晓峰
 <center class="half">
-	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/xiaofeng_cao.jpg" width="300"/>
+	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/cao.jpg" width="300"/>
 </center>
-曹晓峰
 2019-至今： 中国人民大学 应用数学 博士在读
 从事方向：a.癌症图像分割与预测 b.蛋白质功能预测Server
 感兴趣领域：脑科学、老年痴呆及抑郁症图像处理与分析
 
 #### 黄鹤
 <center class="half">
-	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/huang_he.jpg" width="300"/>
+	<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/he_huang.jpg" width="300"/>
 </center>
-黄鹤
-2019级博士生，研究方向计算生物学，兴趣爱好是跑步和各种球类运动。
+2017-2019：硕士
+2019-至今： 中国人民大学 应用数学 博士在读
+研究方向是计算生物学，兴趣爱好是跑步和各种球类运动。
     
 
 ### 硕士生
@@ -145,11 +106,11 @@ Geometric and amino acid type determinants for protein-protein interaction inter
 		<img src="https://raw.githubusercontent.com/MIALAB-RUC/MIALAB-RUC.github.io/master/image/shijie_liu.jpg" width="300"/>
 </center>
 
-
 #### 韩宏峰
 
 #### 张楠
-    余幸恒，孙黛雯，刘佳乐，孔方，于赞，赵楠，栗晓宇，曾承实，刘世婕，韩宏峰（计算机合作），张楠（计算机合作）
+
+[#]:    余幸恒，孙黛雯，刘佳乐，孔方，于赞，赵楠，栗晓宇，曾承实，刘世婕，韩宏峰（计算机合作），张楠（计算机合作）
 
 
 ## 已毕业学生
